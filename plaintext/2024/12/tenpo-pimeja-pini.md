@@ -2,19 +2,21 @@
 title: tenpo pimeja pini
 description: “tenpo ni li tenpo pini.”
 authors:
-  - axiomwitch
+  - jan Nowenpa
 proofreaders: null
 date: 2024-12-15
 date-precision: day
 tags:
   - 'ao3'
+  - 'final fantasy'
 original:
   title: The Final Night
   authors:
-    - axiomwitch
+    - jan Nowenpa
 license: null
 sources:
   - https://archiveofourown.org/works/61341418/chapters/156788023
+  - https://locrian.zone/language/pona/tenpo-pimeja-pini.html
 archives:
   - https://web.archive.org/web/20250211124952/https://archiveofourown.org/works/61341418/chapters/156788023
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
@@ -22,10 +24,11 @@ accessibility-notes: null
 notes: mi weka e lipu pi sitelen pona
 ---
 
-!!! note
-    lipu tu li lon taso ona li sama. lipu pi nanpa wan li lon sitelen Lasina. lipu pi nanpa tu li lon sitelen pona.
-
-    mi anu e nimi ona pi sitelen pona kepeken pilin mute.
+> !!! note
+>
+> lipu tu li lon taso ona li sama. lipu pi nanpa wan li lon sitelen Lasina. lipu pi nanpa tu li lon sitelen pona.
+>
+> mi anu e nimi ona pi sitelen pona kepeken pilin mute.
 
 linja kiwen li pake e jan Temi. jan Ewitoni li luka e linja li ala e ona.
 

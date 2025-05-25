@@ -1,5 +1,5 @@
 ---
-title: luka sina
+title: luka sike
 description: null
 authors:
   - kala pona Tonyu
@@ -14,7 +14,7 @@ tags:
 original: null
 license: null
 sources:
-  - https://www.youtube.com/watch?v=CA8IDSsdj_Y
+  - https://www.youtube.com/watch?v=oxrRY50fy5M
   - https://www.youtube.com/watch?v=ElSgWkww_Qo
   - https://soundcloud.com/kala-pona/luka-sike
   - https://open.spotify.com/track/485NBaEzTIG6FfPvtVKTV2
@@ -57,7 +57,7 @@ ale li kama pona  \
 o pilin monsuta ala  \
 mi lon poka sina
 
-o wile moli ala
+o wile moli ala  \
 o lukin: suno li kama  \
 o pilin monsuta ala  \
 mi o awen e sina
